@@ -1,0 +1,2 @@
+# static-fin
+eod report
